@@ -25,7 +25,7 @@ python train_simclr.py --num <number of train data> # if you want to train for s
 
 python train_simclr_cls.py --pth <model_ckp_path(self-supervised)> # training the classifier for for supervised learning
 
-python train_rn18.py # finetune the ResNet model, "--pretrained" will load the weight pretrained in ImageNet
+python train_rn18.py # finetune the ResNet model    "--pretrained" will load the weight pretrained in ImageNet
 
 ```
 
