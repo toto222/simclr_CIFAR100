@@ -4,7 +4,8 @@
 pip install -r requirements.txt
 ```
 ## dataset
-The train data is from ImageNet, to download it you can go [`ImageNet`](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar)
+The train data is from ImageNet, to download it you can go [`ImageNet`](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar).
+
 It is recommaned to put the data file in the dataset folder like
 ```
 dataset/
