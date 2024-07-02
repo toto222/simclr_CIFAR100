@@ -18,7 +18,7 @@ python data_split.py # Run this command when the data is ready, which is to part
 ```
 
 # Train & Evaluation
-There are a number of options that can be set, most of which can be used by default, which you can view in `train.py`.
+There are a number of options that can be set, most of which can be used by default, which you can view in train files.
 ## for train
 ```
 python train_simclr.py --num <number of train data> # if you want to train for self-supervised learning part
